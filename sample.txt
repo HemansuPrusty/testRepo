@@ -1,1 +1,3 @@
 Hello this file is used by git
+one more line in sample
+
